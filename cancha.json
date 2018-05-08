@@ -10,7 +10,7 @@
  {
 
   "id":"9",
-  "descripcion":"Piky",
+  "descripcion":"El piñon",
   "direccion":"Centro",
   "imagen":"cancha",
   "precio":"80000"
@@ -18,7 +18,7 @@
  {
 
   "id":"8",
-  "descripcion":"Piky",
+  "descripcion":"Cancha RD",
   "direccion":"Centro",
   "imagen":"cancha",
   "precio":"80000"
@@ -26,7 +26,7 @@
  {
 
   "id":"7",
-  "descripcion":"Piky",
+  "descripcion":"JS Cancha",
   "direccion":"Centro",
   "imagen":"cancha",
   "precio":"80000"
@@ -34,7 +34,7 @@
  {
 
   "id":"6",
-  "descripcion":"Piky",
+  "descripcion":"Pelotero cancha",
   "direccion":"Centro",
   "imagen":"cancha",
   "precio":"80000"
@@ -42,7 +42,7 @@
  {
 
   "id":"5",
-  "descripcion":"Piky",
+  "descripcion":"Plaza 34",
   "direccion":"Centro",
   "imagen":"cancha",
   "precio":"80000"
@@ -50,7 +50,7 @@
  {
 
   "id":"4",
-  "descripcion":"Piky",
+  "descripcion":"Cancha",
   "direccion":"Centro",
   "imagen":"cancha",
   "precio":"80000"
