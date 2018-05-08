@@ -1,0 +1,51 @@
+[
+  {
+
+  "id":"10",
+  "descripcion":"16:00 a 17:00",
+  "estado":"Disponible"
+ },
+ {
+
+  "id":"9",
+  "descripcion":"17:00 a 18:00",
+  "estado":"Disponible"
+ },
+ {
+
+  "id":"8",
+  "descripcion":"18:00 a 19:00",
+  "estado":"No Disponible"
+ },
+ {
+
+  "id":"7",
+  "descripcion":"19:00 a 20:00",
+  "estado":"Disponible"
+ },
+ {
+
+  "id":"6",
+  "descripcion":"20:00 a 21:00",
+  "estado":"Disponible"
+ },
+ {
+
+  "id":"5",
+  "descripcion":"21:00 a 22:00",
+  "estado":"Disponible"
+ },
+ {
+
+  "id":"4",
+  "descripcion":"22:00 a 23:00",
+  "estado":"No Disponible"
+ },
+ {
+
+  "id":"3",
+  "descripcion":"23:00 a 00:00",
+  "estado":"Disponible"
+ }
+
+ ]
